@@ -1,0 +1,29 @@
+* {
+
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+
+}
+body{
+    min-height: 100vh;
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.principal {
+    background: white;
+    width: 320px;
+    height: 500px;
+    text-align: center;
+    box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 1rem;
+}
+.centro{
+    margin:10px ;
+}
